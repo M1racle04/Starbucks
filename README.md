@@ -1,6 +1,6 @@
 # StarBucks-Landing-Page
 
-Preview: https://m1racle04.github.io/StarBucks-Landing-Page/
+Preview: https://ishita-1305.github.io/Starbucks/
 
 
 This is a StarBucks Landing Page Clone.
